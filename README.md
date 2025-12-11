@@ -1,4 +1,4 @@
-# Walkthrough - Sistema de Gerenciamento de Biblioteca
+# Atividade de Arquitetura e Desenvolvimento de Software - Sistema de Gerenciamento de Biblioteca
 
 backend API para gerenciamento de biblioteca (Entidade Livro), desenvolvido com TypeScript, Node.js, Express e TypeORM.
 
